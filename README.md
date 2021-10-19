@@ -4,16 +4,13 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 # ملخص
-اداة لتسهيل تشغيل الانماب مستوحاه من ادوات اخرى, اذا في مشكلة او اضافات بلغوني 
+اداة لتسهيل تشغيل الانماب.. الفكرة مستوحاة من ادوات اخرى, اذا في مشكلة او اضافات بلغوني 
 
 
 # صورة
 ![nmap](https://user-images.githubusercontent.com/54814433/137995491-8c3fba2b-0b66-407b-8135-124776021cb6.PNG)
 
 ![nmap1](https://user-images.githubusercontent.com/54814433/137995789-1232f2cc-923b-4a85-ad96-b350dc964c48.PNG)
-
-# Exploit ScreenShot
-![Screenshot_1](https://user-images.githubusercontent.com/54814433/126839276-7e09eef3-b0ec-4aa7-b1a6-a0c6fecd4a43.png)
 
 # خصائص الاداة
 

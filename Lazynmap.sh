@@ -34,15 +34,23 @@ if [ -z "${NMAPPATH}" ] && type nmap >/dev/null 2>&1; then
 fi
 
 PAGE1() {
-        echo
-        printf "${YELLOW}Example: $(basename $0) -ip ${NC}10.10.10.10${YELLOW} -t ${NC}All${YELLOW}\n"
-        printf "Scan Types:\n"
-        printf "${LIGHT}\tHosts   : ${NC}To DO live hosts scan\n"
-        printf "${LIGHT}\tPorts   : ${NC}To DO open ports scan\n"
-        printf "${LIGHT}\tFull    : ${NC}To DO full range port scan\n"
-        printf "${LIGHT}\tVuln    : ${NC}To DO CVE scan by nmap Vuln scan\n"
-        printf "${LIGHT}\tAll     : ${NC}To DO all the scans\n"
-        printf "${NC}\n"
+  echo  "\e[33m
+
+  <============================================================================================================>
+  ||                                \"Lazy nmap tool                                                           ||
+  ||                                                                                                          ||
+  ||  Author  : Mohamed Alzhrani                                                                              ||
+  ||  Url     : https://github.com/MazX0p                                                                     ||
+  ||  usage   : Ex: LazyNmap.sh -ip 10.10.10.10 -t Hosts (add type of scan after -t)                          ||
+  ||  Types   :                                                                                               ||
+  ||  * Hosts   --> TO DO live hosts scan                                                                     ||
+  ||  * Ports   --> TO DO port scan                                                                           ||
+  ||  * Vulns   --> TO DO CVE scan                                                                            ||
+  ||  * Full    --> TO DO Full Scan                                                                           ||
+  ||  * All     --> TO DO all scans                                                                           ||
+  <============================================================================================================>
+
+                                                                                                                     \e[0m"
         exit 1
 }
 

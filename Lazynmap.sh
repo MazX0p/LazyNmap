@@ -45,7 +45,7 @@ PAGE1() {
   ||  Types   :                                                                                               ||
   ||  * Hosts   --> TO DO live hosts scan                                                                     ||
   ||  * Ports   --> TO DO port scan                                                                           ||
-  ||  * Vulns   --> TO DO CVE scan                                                                            ||
+  ||  * Vuln    --> TO DO CVE scan                                                                            ||
   ||  * Full    --> TO DO Full Scan                                                                           ||
   ||  * All     --> TO DO all scans                                                                           ||
   <============================================================================================================>

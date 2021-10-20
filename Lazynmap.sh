@@ -34,7 +34,7 @@ if [ -z "${NMAPPATH}" ] && type nmap >/dev/null 2>&1; then
 fi
 
 PAGE1() {
-  echo  "\e[33m
+  echo -e "\e[33m
 
   <============================================================================================================>
   ||                                \"Lazy nmap tool                                                           ||
@@ -45,7 +45,7 @@ PAGE1() {
   ||  Types   :                                                                                               ||
   ||  * Hosts   --> TO DO live hosts scan                                                                     ||
   ||  * Ports   --> TO DO port scan                                                                           ||
-  ||  * Vuln    --> TO DO CVE scan                                                                            ||
+  ||  * Vulns   --> TO DO CVE scan                                                                            ||
   ||  * Full    --> TO DO Full Scan                                                                           ||
   ||  * All     --> TO DO all scans                                                                           ||
   <============================================================================================================>

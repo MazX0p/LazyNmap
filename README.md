@@ -7,8 +7,9 @@
 اداة لتسهيل تشغيل الانماب.. الفكرة مستوحاة من ادوات اخرى, اذا في مشكلة او اضافات بلغوني 
 
 
-# صورة
-![nmap](https://user-images.githubusercontent.com/54814433/137995491-8c3fba2b-0b66-407b-8135-124776021cb6.PNG)
+# صور
+
+![nmap3](https://user-images.githubusercontent.com/54814433/138042225-e56c26ee-efe2-4d5d-ba89-aa7d97dd0a36.png)
 
 ![nmap1](https://user-images.githubusercontent.com/54814433/137995789-1232f2cc-923b-4a85-ad96-b350dc964c48.PNG)
 
